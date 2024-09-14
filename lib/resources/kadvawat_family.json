@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "label": "Ganpat Ji Kadvawat\nSohan Devi"
+        },
+        {
+            "id": 2,
+            "label": "Shobha Lal Ji\nParvati Devi"
+        },
+        {
+            "id": 3,
+            "label": "Banshi Lal Ji\nSita Devi"
+        },
+        {
+            "id": 4,
+            "label": "Fulmala Devi\nAniruddh Ji Vyas"
+        },
+        {
+            "id": 5,
+            "label": "Shakuntala Devi\nChaitanya Prakash Ji Vyas"
+        },
+        {
+            "id": 6,
+            "label": "Uma Devi\nKaushal Ji Vyas"
+        },
+        {
+            "id": 7,
+            "label": "Atal Ji\nSavita Devi Vyas"
+        },
+        {
+            "id": 8,
+            "label": "Ruchika\nSanjay Ji Joshi"
+        },
+        {
+            "id": 9,
+            "label": "Omendra"
+        },
+        {
+            "id": 27,
+            "label": "Chandr Prabha (Kripa)"
+        },
+        {
+            "id": 10,
+            "label": "Apeksha Devi\nBhupendr Ji Joshi"
+        },
+        {
+            "id": 11,
+            "label": "Yash\nPooja Choubisa"
+        },
+        {
+            "id": 19,
+            "label": "Kovid"
+        },
+        {
+            "id": 20,
+            "label": "Buddhi"
+        },
+        {
+            "id": 21,
+            "label": "Hemakshi"
+        },
+        {
+            "id": 12,
+            "label": "Harshit\nRinku Joshi"
+        },
+        {
+            "id": 13,
+            "label": "Neeraj"
+        },
+        {
+            "id": 14,
+            "label": "Gandhar"
+        },
+        {
+            "id": 15,
+            "label": "Akshar"
+        },
+        {
+            "id": 16,
+            "label": "Hemlata Devi\nHusband"
+        },
+        {
+            "id": 17,
+            "label": "Yashwant Ji\nJyoti Devi"
+        },
+        {
+            "id": 18,
+            "label": "Bharti Devi\nManoj Ji Vyas"
+        },
+        {
+            "id": 22,
+            "label": "Prakhar"
+        },
+        {
+            "id": 23,
+            "label": "Jalaj"
+        },
+        {
+            "id": 24,
+            "label": "Pulkit"
+        },
+        {
+            "id": 28,
+            "label": "Vedik"
+        },
+        {
+            "id": 25,
+            "label": "Jatin"
+        },
+        {
+            "id": 26,
+            "label": "Ridhhi"
+        },
+        {
+            "id": 29,
+            "label": "Lalita Devi\nPrem Shankar Ji Vyas"
+        },
+        {
+            "id": 30,
+            "label": "Gopal Ji\nLeela Devi"
+        },
+        {
+            "id": 31,
+            "label": "Kailash Ji\nSonu Devi\nVimla Devi"
+        },
+        {
+            "id": 32,
+            "label": "Deepak"
+        },
+        {
+            "id": 33,
+            "label": "Sumit"
+        },
+        {
+            "id": 34,
+            "label": "Dev Kanya"
+        },
+        {
+            "id": 35,
+            "label": "Jiyansh"
+        },
+        {
+            "id": 36,
+            "label": "Vidhya Devi\nHusband"
+        }
+        ,
+        {
+            "id": 37,
+            "label": "Boy",
+            "next": 38
+        }
+    ],
+    "edges": [
+        {
+            "from": 1,
+            "to": 2
+        },
+        {
+            "from": 1,
+            "to": 3
+        },
+        {
+            "from": 2,
+            "to": 4
+        },
+        {
+            "from": 2,
+            "to": 5
+        },
+        {
+            "from": 2,
+            "to": 6
+        },
+        {
+            "from": 2,
+            "to": 7
+        },
+        {
+            "from": 4,
+            "to": 8
+        },
+        {
+            "from": 8,
+            "to": 27
+        },
+        {
+            "from": 4,
+            "to": 9
+        },
+        {
+            "from": 5,
+            "to": 10
+        },
+        {
+            "from": 10,
+            "to": 19
+        },
+        {
+            "from": 10,
+            "to": 20
+        },
+        {
+            "from": 5,
+            "to": 11
+        },
+        {
+            "from": 11,
+            "to": 21
+        },
+        {
+            "from": 6,
+            "to": 12
+        },
+        {
+            "from": 6,
+            "to": 13
+        },
+        {
+            "from": 7,
+            "to": 14
+        },
+        {
+            "from": 7,
+            "to": 15
+        },
+        {
+            "from": 3,
+            "to": 16
+        },
+        {
+            "from": 16,
+            "to": 24
+        },
+        {
+            "from": 16,
+            "to": 28
+        },
+        {
+            "from": 3,
+            "to": 17
+        },
+        {
+            "from": 17,
+            "to": 22
+        },
+        {
+            "from": 17,
+            "to": 23
+        },
+        {
+            "from": 3,
+            "to": 18
+        },
+        {
+            "from": 18,
+            "to": 25
+        },
+        {
+            "from": 18,
+            "to": 26
+        },
+        {
+            "from": 1,
+            "to": 29
+        },
+        {
+            "from": 29,
+            "to": 30
+        },
+        {
+            "from": 29,
+            "to": 31
+        },
+        {
+            "from": 29,
+            "to": 36
+        },
+        {
+            "from": 30,
+            "to": 32
+        },
+        {
+            "from": 30,
+            "to": 33
+        },
+        {
+            "from": 31,
+            "to": 34
+        },
+        {
+            "from": 31,
+            "to": 35
+        },
+        {
+            "from": 36,
+            "to": 37
+        }
+    ]
+}
