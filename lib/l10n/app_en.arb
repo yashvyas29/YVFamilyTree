@@ -1,0 +1,57 @@
+{
+  "title": "YVFamilyTree",
+
+  "about": "About",
+  "myName": "Yash Vyas",
+  "aboutText": "YVCounter app is created for solving a common scenario of counting malas or japs which is done by hindu religion pepole during meditation.\n\nIn Hinduism the jap mala is used to direct and count the recitation of mantras during meditation. It usually consists of 108 beads strung in a circle to represent the cyclic nature of life.",
+  "menu": "Menu",
+
+  "changeLanguageTo": "Change Language to {language}",
+  "@changeLanguageTo" : {
+      "placeholders": {
+        "language": {
+          "type": "String",
+          "example": "English"
+        }
+      }
+  },
+  "english": "English",
+  "hindi": "Hindi",
+
+  "familyList": "Family List",
+  "newFamily": "New Family",
+  "vyasFamily": "Vyas Family",
+  "kadvawatFamily": "Kadvawat Family",
+  "dharmawatFamily": "Dharmawat Family",
+
+  "changingLanguage": "Changing Language",
+  "familyNotAvailable": "No family available.",
+
+  "saveError": "Save failed.",
+  "deleteError": "Delete failed.",
+
+  "deleteConfirmation": "Are you sure you want to delete {name} ?",
+  "@deleteConfirmation" : {
+      "placeholders": {
+        "name": {
+          "type": "String",
+          "example": "Yash"
+        }
+      }
+  },
+
+  "alert": "Alert",
+  "delete": "Delete",
+  "cancel": "Cancel",
+
+  "renameToYourFamilyName": "Rename to your family name.",
+  "added": "added.",
+  "updated": "updated.",
+  "deleted": "deleted.",
+  "alreadyExists": "already exists.",
+  "enterFamilyName": "Enter family name.",
+  "enterParentsName": "Enter parents name.",
+  "enterChildAndSpouseName": "Enter child and his or her spouse name.",
+
+  "commonError": "Something went wrong, please try again later."
+}

@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 
-import '../data_model/treemember.dart';
-
 class DBProvider {
   DBProvider._();
 
@@ -107,6 +105,7 @@ class DBProvider {
     return res;
   }
 
+  /*
   Future<int> insertMember(TreeMember treeMember, String table) async {
     final db = await database;
 
@@ -137,6 +136,7 @@ class DBProvider {
     //print(res);
     return res;
   }
+  */
 
   Future<List<Map>> getMembers(String table) async {
     final db = await database;
