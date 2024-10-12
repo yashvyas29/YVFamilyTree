@@ -3,7 +3,7 @@
 
   "about": "About",
   "myName": "Yash Vyas",
-  "aboutText": "YVCounter app is created for solving a common scenario of counting malas or japs which is done by hindu religion pepole during meditation.\n\nIn Hinduism the jap mala is used to direct and count the recitation of mantras during meditation. It usually consists of 108 beads strung in a circle to represent the cyclic nature of life.",
+  "aboutText": "YVFamilyTree app is created for add families and create their family tree.",
   "menu": "Menu",
 
   "changeLanguageTo": "Change Language to {language}",

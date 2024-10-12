@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:yv_family_tree/about_page.dart';
 import 'package:yv_family_tree/common/sqlite_db_provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:yv_family_tree/data_model/locale_model.dart';
@@ -161,6 +162,14 @@ class _FamilyListPageState extends State<FamilyListPage> {
               ],
               onChanged: (value) => localeModel.set(Locale(value.toString())),
             ),
+          ),
+          IconButton(
+            tooltip: localizations.about,
+            icon: const Icon(Icons.info_outline),
+            onPressed: () {
+              Navigator.of(context).push(
+                  MaterialPageRoute(builder: (context) => const AboutPage()));
+            },
           ),
           IconButton(
               onPressed: () async {
